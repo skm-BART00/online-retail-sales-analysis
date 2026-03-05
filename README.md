@@ -76,5 +76,3 @@ The dashboard provides a quick overview of sales performance including:
 ![Dashboard](dashboard/dashboard.png)
 
 ---
-
-## Repository Structure
