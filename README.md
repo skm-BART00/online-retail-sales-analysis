@@ -72,3 +72,5 @@ UCI Online Retail Dataset containing transactional sales data from 2010–2011.
 
 !\[Dashboard](dashboard.png)
 
+# online-retail-sales-analysis
+Sales performance analysis using Python and Power BI based on the UCI Online Retail dataset.
